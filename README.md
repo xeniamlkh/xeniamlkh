@@ -39,3 +39,7 @@ I am an Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjE
 ![Android Studio](https://img.shields.io/badge/Android.Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack.Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniamlkh)](https://github.com/anuraghazra/github-readme-stats)
