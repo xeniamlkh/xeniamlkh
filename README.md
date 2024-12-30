@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I am an Android Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xiNTUyNHltaDRoNTg3MjJ3YjZyaXUxOTJ1ZWZoZTFxM2NydXlleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="40px">
 
-- :telescope: I’m working as a freelance Software Engineer and building Android mobile applications.
+- :telescope: I’m working as a Software Engineer and building Android mobile applications.
 
 - :seedling: I'm currently learning Jetpack Compose and Kotlin Multiplatform.
   
