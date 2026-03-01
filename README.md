@@ -11,7 +11,7 @@
 
 ### About Me :
 
-- I’m an Android Software Engineer and build mobile applications.
+- I’m an Android Developer and I build mobile applications.
 - Reach me on:
   <a href="https://www.linkedin.com/in/xenia-kozeeva/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
